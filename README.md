@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-![MyPass Screenshot](img/sample.png)
+![MyPass Screenshot](imgs/sample.png)
 
 ---
 
